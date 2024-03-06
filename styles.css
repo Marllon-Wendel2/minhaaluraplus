@@ -69,3 +69,35 @@ body {
 .container__caixa {
     margin: 0 6em;
 }
+
+.secundario_imagem {
+    width: 70%;
+}
+
+.secundario {
+    align-items: center;
+    margin: 0 6em;
+}
+
+.descricao__titulo {
+    color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 48;
+    font-weight: 700;
+    margin-bottom: 0.21em;
+}
+
+.discricao__paragrafo {
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    color: var(--cinza-secundario);
+}
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container_descricao {
+    padding: 2em;
+}
